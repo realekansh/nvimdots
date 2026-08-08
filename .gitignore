@@ -1,0 +1,31 @@
+# Neovim Files
+plugin/
+parser/
+queries/
+
+# Lazy.nvim
+lazy-lock.json
+
+# Cache
+.luarc.json
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Compiled
+*.o
+*.so
+*.dylib
+
+# Logs
+log
+*.log
+
+# Undo files
+undo/
+
+# Session
+sessions/
