@@ -36,8 +36,8 @@ On first launch, lazy.nvim automatically installs plugins, compiles Treesitter l
 
 All detailed guides and documentation files are organized inside the [docs/](docs/) directory:
 
-- [docs/Introduction.md](docs/Introduction.md) - Detailed introduction, core philosophy, and complete plugin stack.
-- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) - Project structure, module layout, and design rationale.
-- [docs/KEYMAPS.md](docs/KEYMAPS.md) - Complete keybinding reference table (Leader = Space).
-- [docs/DEPENDENCIES.md](docs/DEPENDENCIES.md) - Required and optional system CLI dependencies guide.
-- [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) - Health checks, common errors, and diagnostic steps.
+- [docs/Introduction.md](docs/INTRODUCTION.md) - Detailed introduction, core philosophy, and complete plugin stack.
+- [docs/Architecture.md](docs/ARCHITECTURE.md) - Project structure, module layout, and design rationale.
+- [docs/Keymaps.md](docs/KEYMAPS.md) - Complete keybinding reference table (Leader = Space).
+- [docs/Dependencies.md](docs/DEPENDENCIES.md) - Required and optional system CLI dependencies guide.
+- [docs/Troubleshooting.md](docs/TROUBLESHOOTING.md) - Health checks, common errors, and diagnostic steps.
